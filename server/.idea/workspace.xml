@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a17560e1-9f18-4632-a492-efe819e84841" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/TwentyOneClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/config/RMIConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/game/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/game/entity/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/game/entity/enums/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/game/entity/enums/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/game/state/TwentyOneGameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/java/com/twentyoneclient/service/RMIService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/webapp/jsp/endGame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/webapp/jsp/inProgress.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/main/webapp/jsp/mainMenu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/java/com/listener/ListenerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/java/com/listener/config/RabbitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/java/com/listener/entity/CustomMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/java/com/listener/queue/QueueListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/java/com/listener/repository/CustomMessageRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listener/src/test/java/com/listener/ListenerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twentyone/config/ApplicationContextProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twentyone/rabbitmq/RabbitBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/twentyone/rabbitmq/entity/CustomMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 1/Example/Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 1/Example/lab01/lab01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 2/Examples/Examples1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 2/Examples/lab02/lab02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 3/Examples/Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 3/Examples/lab03/lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 4/Example/Example1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 4/Example/lab04/lab04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 4/sleepingBarberExample/sleepingBarberExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab 5/Lab 5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab 5/Lab 5/out/production/Lab 5/com/parallel/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab 5/Lab 5/out/production/Lab 5/com/parallel/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab 5/Lab 5/src/com/parallel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab 5/Lab 5/src/com/parallel/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mH0dG0zfjwmnjNRLmpN5qaOUMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twenty-one-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.twentyone.TwentyOneServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a17560e1-9f18-4632-a492-efe819e84841" name="Default Changelist" comment="" />
+      <created>1609135296964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609135296964</updated>
+      <workItem from="1609135298051" duration="199000" />
+      <workItem from="1609135533917" duration="2409000" />
+      <workItem from="1609232642627" duration="9133000" />
+      <workItem from="1609266226300" duration="82000" />
+      <workItem from="1609269160046" duration="14328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
